@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1?page=1&category=Java&sortBy=submissions">Convert String to LowerCase</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a string <strong>s</strong>. The task is to convert string characters to <strong>lowercase</strong>.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1&selectedLang=python3">Convert String to LowerCase</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a string <strong>s</strong>. The task is to convert string characters to <strong>lowercase</strong>.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong>s = "ABCddE</span><span style="font-size: 18px;">"
 <strong>Output:</strong> "abcdde</span><span style="font-size: 18px;">"
